@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../playTests"
+		},
+		{
+			"name": "playTests-1",
+			"path": "."
+		},
+		{
+			"name": "playTests-2",
+			"path": "../playTests-2"
+		}
+	],
+	"settings": {}
+}
